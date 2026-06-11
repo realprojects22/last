@@ -1,0 +1,26 @@
+# HALOL CRYPTO AI BOT V3.5
+
+# Telegram Bot (job-queue MAJBURIY — 15min signallar uchun)
+python-telegram-bot[job-queue]==20.7
+
+# HTTP
+aiohttp==3.9.1
+requests==2.31.0
+
+# Ma'lumotlar tahlili
+numpy==1.26.2
+pandas==2.1.4
+
+# Grafiklar
+matplotlib==3.8.2
+mplfinance==0.12.10b0
+Pillow==10.1.0
+
+# Atrof-muhit
+python-dotenv==1.0.0
+
+# Vaqt zonalari
+pytz==2023.3.post1
+
+# Cache
+cachetools==5.3.2
