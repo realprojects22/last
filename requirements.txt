@@ -2,7 +2,7 @@
 # Python 3.13 bilan mos versiyalar
 
 # Telegram Bot (job-queue MAJBURIY)
-python-telegram-bot[job-queue]==20.7
+python-telegram-bot[job-queue]==21.10
 
 # HTTP
 aiohttp==3.9.5
